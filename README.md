@@ -10,3 +10,7 @@ About page and Single Post page-->
 
 Compose Blog Page --> 
 ![](public/images/composeblog.PNG)      
+
+Updated Blog Theme --> 
+
+![](public/images/blog.PNG)
