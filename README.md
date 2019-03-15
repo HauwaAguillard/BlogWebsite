@@ -3,6 +3,8 @@ A blog website using HTML, CSS, Boostrap, JavaScript, Nodejs, NPM, Express, EJS.
 
 Homepage--> https://haguillard.github.io/BlogWebsite/
 
+![](public/images/blogWebsite.PNG)
+
 ![](public/images/homeBlog.PNG)
 
 About page and Single Post page-->
