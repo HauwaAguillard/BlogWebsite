@@ -1,7 +1,7 @@
 # BlogWebsite
 A blog website using HTML, CSS, Boostrap, JavaScript, Nodejs, NPM, Express, EJS. You will need to install dependencies for program to run locally on your system
 
-Homepage--> https://haguillard.github.io/BlogWebsite/
+Homepage--> https://hauwaaguillard.github.io/BlogWebsite/
 
 ![](public/images/blogWebsite.PNG)
 
